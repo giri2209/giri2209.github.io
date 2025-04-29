@@ -1,7 +1,7 @@
 {
   "entryAssembly": "StarWarsSPA",
   "resources": {
-    "hash": "sha256-omNDMdLbr0vQeZBqF5WPU0qtpPKU6Xg40RajQsCBNsI=",
+    "hash": "sha256-5Qy/zednLB4aOhiQEOPRshsgQqC50ki/MNRDmH2T4c8=",
     "runtime": {
       "dotnet.7.0.20.1dv5w840nm.js": "sha256-eaJTmow4t8eE7FZMZR5Ja41JMOefGCbIYDTdpclGsac=",
       "dotnet.timezones.blat": "sha256-gbATD5HDsHYtW8vdPYh9iSBY4O5CjvMeCSF5xXWF1xo=",
@@ -32,7 +32,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-LIeei4/JFd3TBbtpEc1rneu+zOw4UNmSksghADw1m1I=",
       "Microsoft.Net.Http.Headers.dll": "sha256-3ka/URcuxi84edu4FXrvIaA+XRz7PFf8zqkozwRxcuI=",
       "netstandard.dll": "sha256-u+pss/vDWQyuqS8BIb/npgfC/yHFcJ1WYgdWOQDb1JA=",
-      "StarWarsSPA.dll": "sha256-+8SnYP37Bz3524qsLf7KST+KGLuR2tV1Hj67xlGNbAQ=",
+      "StarWarsSPA.dll": "sha256-AGNkryjatoGR+UpZyK6YS1aTVOjszP/+F1VGx05XRac=",
       "System.Buffers.dll": "sha256-p9sOInJEsv03vufjnvqfhXlIt+ga0UZbd73y/o8YiuM=",
       "System.Collections.Concurrent.dll": "sha256-+e4z5Q4weueso+2fzSoC8B7lmwfaLorqYESR5wXFqSE=",
       "System.Collections.dll": "sha256-Ptn1rLYLdhLdXUTE7hUM6zJ0detFrr47YS8BVsc0EtY=",
